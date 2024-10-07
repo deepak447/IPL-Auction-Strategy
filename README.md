@@ -1,4 +1,5 @@
 # IPL-Auction-Strategy
+![IPL_logo](https://github.com/user-attachments/assets/d09643f5-5cf4-4c1f-8e15-7f6b9d5d016c)
 
 ## Overview
 
